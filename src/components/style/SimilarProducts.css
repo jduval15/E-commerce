@@ -1,0 +1,11 @@
+.similar {
+    padding: 30px 20px 20px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr, 80px;
+}
+
+.similar__title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

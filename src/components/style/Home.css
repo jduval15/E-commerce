@@ -1,0 +1,10 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em 2em;
+    flex-wrap: wrap;
+    padding: 20px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
