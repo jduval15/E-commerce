@@ -1,0 +1,30 @@
+.purchasesCard {
+  border: 2px solid grey;
+  height: 400px;
+  width: 240px;
+  border-radius: 10px;
+  margin: 10px;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.purchasesCard__img {
+  height: 210px;
+}
+
+.purchasesCard__img img {
+  height: 210px;
+}
+
+.purchasesCard__title {
+  font-size: 20px;
+  color: var(--primary);
+  font-weight: 900;
+}
+
+.purchasesCard__info {
+  font-size: 16px;
+  color: var(--text-gray);
+}
